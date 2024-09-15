@@ -10,7 +10,7 @@
 sudo -i 			
 sudo apt update -y
 
-sudo apt install openjdk-17-jre -y 						
+sudo apt install openjdk-11-jre -y 						
 java -version						
 
 2. Install the Actual tool :::
